@@ -3,8 +3,8 @@ class QuisGAME:
 
         self.questions = [
             {"question": "The capital of France is Paris.", "answer": True},
-            {"question": "2 + 2 equals 5.", "answer": False},
-            {"question": "Paris is the capital of France.", "answer": True}
+            {"question": "2 + 3 equals 7.", "answer": False},
+            {"question": "Ibn Sina is a philosopher.", "answer": True}
         ]
         self.score = 0
 
